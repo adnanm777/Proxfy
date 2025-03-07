@@ -1,5 +1,4 @@
 # Proxify
-# Test Execution and Automation Repository
 
 ## Introduction
 This repository is designed to provide a structured approach to software testing, ensuring high-quality applications through a combination of manual and automated testing techniques. It includes essential testing artifacts such as test plans, execution reports, bug reports, and Selenium-based automation scripts to enhance efficiency and accuracy in the testing process.
