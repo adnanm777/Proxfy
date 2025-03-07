@@ -7,7 +7,7 @@ This repository is designed to provide a structured approach to software testing
 
 Directory Structure
 
-proxfy-test-plan/
+ proxfy-test-plan/
 ├─ docs/            # Test documentation
 ├─ reports/         # Test execution and bug reports
 ├─ automation/      # Selenium-based test scripts
